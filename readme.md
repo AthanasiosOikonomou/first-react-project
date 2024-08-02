@@ -6,6 +6,10 @@ Welcome to the First React App Start project! This repository contains a basic s
 
 This project is a simple React application starter. It provides a foundational setup with essential configurations and dependencies to kickstart your React development.
 
+## DEMO
+
+![Project Demo](demo\demo.mp4)
+
 ## Installation
 
 Follow these steps to get the project up and running on your local machine:
