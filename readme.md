@@ -8,7 +8,11 @@ This project is a simple React application starter. It provides a foundational s
 
 ## DEMO
 
-![Project Demo](demo\demo.mp4)
+
+
+https://github.com/user-attachments/assets/360e2909-5a16-41a3-af4a-bd5274e57a5e
+
+
 
 ## Installation
 
