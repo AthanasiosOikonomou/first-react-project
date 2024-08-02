@@ -12,30 +12,24 @@ Follow these steps to get the project up and running on your local machine:
 
 1. Clone the repository:
 
-<pre>
 ```bash
 git clone https://https://github.com/AthanasiosOikonomou/first-react-project
 cd first-react-app-start
 ```
-</pre>
 
 2. Install the dependencies:
 
-<pre>
 ```bash
 npm install
 ```
-</pre>
 
 ## Usage
 
 To start the development server, run:
 
-<pre>
 ```bash
 npm start
 ```
-</pre>
 
 This will launch the application on http://localhost:3000.
 
